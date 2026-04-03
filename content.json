@@ -1,17 +1,16 @@
 {
   "images": {
     "logoSrc": "logo.png",
-    "hero": "placeholder.svg",
-    "about": "placeholder.svg",
+    "hero": "giraud-leo-final.jpg",
+    "about": "pp.jpg",
     "favicon": "logo.png",
-    "ogImage": "logo.png",
+    "ogImage": "giraud-leo-final.jpg",
     "gallery": [
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg",
-      "placeholder.svg"
+      "giraud-leo-render-3-2.jpg",
+      "giraud-leo-3lames-fond.jpg",
+      "giraud-leo-screen0.jpg",
+      "giraud-leo-test2.jpg",
+      "giraud-leo-final.jpg"
     ]
   },
   "navbar": {
@@ -48,8 +47,8 @@
     "eyebrow": { "fr": "Pipeline", "en": "Pipeline" },
     "title": { "fr": "Outils & moteurs", "en": "Tools & engines" },
     "subtitle": {
-      "fr": "Stack typique — logos ou textes à personnaliser.",
-      "en": "Typical stack — swap for your own logos or labels."
+      "fr": "Outils et moteurs utilisés au quotidien pour modéliser, texturer et livrer en PBR.",
+      "en": "Day-to-day tools and engines for modeling, texturing, and PBR delivery."
     },
     "items": [
       { "name": "Blender" },
@@ -64,16 +63,15 @@
     "eyebrow": { "fr": "Sélection", "en": "Selected work" },
     "title": { "fr": "Galerie", "en": "Gallery" },
     "subtitle": {
-      "fr": "Remplacez les visuels dans img/ et la liste `images.gallery` dans content.json.",
-      "en": "Replace shots in img/ and the `images.gallery` list in content.json."
+      "fr": "Extraits de personnages, d’environnements et de look dev — une sélection de rendus récents.",
+      "en": "Character, environment, and look-dev excerpts — a selection of recent renders."
     },
     "captions": [
-      { "fr": "Personnage — look dev", "en": "Character — look dev" },
-      { "fr": "Environnement — lighting", "en": "Environment — lighting" },
-      { "fr": "Prop hero asset", "en": "Hero prop" },
-      { "fr": "Hard-surface study", "en": "Hard-surface study" },
-      { "fr": "Creature sculpt", "en": "Creature sculpt" },
-      { "fr": "Shading exploration", "en": "Shading exploration" }
+      { "fr": "Personnage — rendu 3:2", "en": "Character — 3:2 render" },
+      { "fr": "Trois lames — pose & fond", "en": "Three blades — pose & backdrop" },
+      { "fr": "Intérieur sci-fi — lighting", "en": "Sci-fi interior — lighting" },
+      { "fr": "Étude / test look dev", "en": "Look dev study" },
+      { "fr": "Cabine & vue spatiale — pièce maîtresse", "en": "Cabin & space vista — hero piece" }
     ]
   },
   "features": {
@@ -135,8 +133,8 @@
     "eyebrow": { "fr": "En chiffres", "en": "At a glance" },
     "title": { "fr": "Volume & expérience", "en": "Volume & experience" },
     "subtitle": {
-      "fr": "Indicatifs — à ajuster selon ton parcours réel.",
-      "en": "Illustrative — tune to your real track record."
+      "fr": "Un aperçu du rythme de production et des types de livrables.",
+      "en": "A snapshot of production pace and typical deliverables."
     },
     "items": [
       {
@@ -166,7 +164,7 @@
     "ctaText": { "fr": "Écrire un message", "en": "Send a message" },
     "ctaHref": "mailto:contact@raito.example",
     "secondaryCtaText": { "fr": "ArtStation", "en": "ArtStation" },
-    "secondaryCtaHref": "https://www.artstation.com/"
+    "secondaryCtaHref": "https://www.artstation.com/giraudleo"
   },
   "footer": {
     "tagline": {
@@ -182,9 +180,9 @@
       "contact": "mailto:contact@raito.example"
     },
     "socials": [
-      { "label": { "fr": "ArtStation", "en": "ArtStation" }, "href": "https://www.artstation.com/" },
-      { "label": { "fr": "LinkedIn", "en": "LinkedIn" }, "href": "https://www.linkedin.com/" },
-      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "https://www.instagram.com/" }
+      { "label": { "fr": "ArtStation", "en": "ArtStation" }, "href": "https://www.artstation.com/giraudleo" },
+      { "label": { "fr": "LinkedIn", "en": "LinkedIn" }, "href": "https://www.linkedin.com/in/l%C3%A9o-giraud/" },
+      { "label": { "fr": "Instagram", "en": "Instagram" }, "href": "https://www.instagram.com/leo_art_3d?igsh=MWZ4dTUxdGxzbHdkeQ==" }
     ],
     "copyright": {
       "fr": "© 2026 Raito",
